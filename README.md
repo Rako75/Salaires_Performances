@@ -1,3 +1,7 @@
+![Graphique xG](Histogramme_clubs_salaires.png)
+![Graphique xG](top_flop_players_by_salary_beautified.png)
+
+
 # ⚽ Salaires et Performances des Clubs du Big 5 Européen
 
 Ce projet explore la **distribution des salaires** et la **performance des joueurs** dans les principaux championnats européens de football (Premier League, Liga, Bundesliga, Serie A, Ligue 1) pour la saison **2024/2025**, à travers des visualisations détaillées.
