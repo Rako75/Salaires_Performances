@@ -11,7 +11,7 @@ Ce projet explore la **distribution des salaires** et la **performance des joueu
 
 - `salaires_performances_big5.py` : script contenant le traitement des données et les visualisations.
 - `WAGES_BIG5.csv` : Données des salaires et performances des joueurs.
-- `logos fotmob/` : Dossier contenant les logos des clubs.
+- `logos/` : Dossier contenant les logos des clubs.
 
 ## 🖼️ Visualisations générées
 
